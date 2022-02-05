@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prince-joy-prince
-- 👀 I’m interested in Web Designing
+- 👀 I’m interested in Web Designing & Web Development
 - 🌱 I’m currently working as a Jr. Web Designer
 - 📫 Reach me through email adderess: joyprince942003@gmail.com
 
