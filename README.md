@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prince-joy-prince
+- 👋 Hi, I’m @Joy-Prince
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently working as a Jr. Web Designer
 - 📫 Reach me through email adderess: joyprince942003@gmail.com
