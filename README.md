@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joy-Prince
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently working IT Developer 
+- 🌱 I’m currently working as a IT Developer in Qobotic Software Solution
 - 📫 Reach me through email adderess: joyprince942003@gmail.com
 
 <!---
